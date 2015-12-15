@@ -1,16 +1,13 @@
- <!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color:lightgrey;}
-h1   {color:blue;}
-p    {color:green;}
-</style>
-</head>
-<body>
+body {
+    background-color: #d0e4fe;
+}
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+h1 {
+    color: orange;
+    text-align: center;
+}
 
-</body>
-</html>
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
