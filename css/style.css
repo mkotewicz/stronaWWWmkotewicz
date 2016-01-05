@@ -5,11 +5,31 @@ body {
 h1 {
     color: white;
     text-align: center;
-    font-size: large;
+    font-size: 50px;
 }
 
 p {
     font-family: "Times New Roman";
     font-size: 20px;
     color: white;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+table {
+   text-align: center;
+}
+
+button {
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
 }
